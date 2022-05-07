@@ -1,2 +1,2 @@
 # Mongodb
-learnt basics of database connectivity and data manipulation(insertion,dletion,update) in mongodb database. 
+learnt basics of database connectivity and data manipulation(CRUD operations) in mongodb database. Api creation and basics using mongoose.
