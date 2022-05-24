@@ -1,2 +1,9 @@
 # Mongodb
-This repository includes basics of database connectivity and data manipulation(CRUD operations) in mongodb database.Concepts of Api creation and operations along  Api search filters using mongoose.
+Following conceps are learnt while learning MongoDB:
+
+##Concepts:
+
+* CRUD Operations using MongoDB.
+* Mongoose configuration.
+* CRUD Operations using Mongoose.
+* Search filters.
