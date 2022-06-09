@@ -1,7 +1,7 @@
 # Mongodb
-Following conceps are learnt while learning MongoDB:
+Following concepts learnt while learning MongoDB:
 
-##Concepts:
+## Concepts:
 
 * CRUD Operations using MongoDB.
 * Mongoose configuration.
